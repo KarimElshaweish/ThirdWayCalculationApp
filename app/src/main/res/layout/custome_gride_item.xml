@@ -12,7 +12,7 @@
         android:layout_centerVertical="true"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:textColor="@color/white"
+        android:textColor="@color/orange"
         android:text="100"
         android:fontFamily="sans-serif-medium"
         android:textSize="20dp"
