@@ -1,0 +1,7 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+com.karim.thirdwaycalculationapp.Adapter
+com.karim.thirdwaycalculationapp.Operations
+com.karim.thirdwaycalculationapp.View
+com.karim.thirdwaycalculationapp.controller
