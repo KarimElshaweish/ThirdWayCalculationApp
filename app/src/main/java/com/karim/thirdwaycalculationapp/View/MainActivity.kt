@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
         })
     }
 
+
     /**
      *
      * This function is used to change the colors of the application
