@@ -34,5 +34,10 @@ class Calcultoin {
          * @return result This function return the division  of the first  parameters of the second one
          */
         fun division(fNumber: Double,sNumber: Double)=(fNumber/sNumber).toString()
+
+
+        fun trySmth(){
+
+        }
     }
 }

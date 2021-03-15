@@ -114,8 +114,7 @@ class MainActivity : AppCompatActivity() {
     /**
      * This function is used to  change the other tools
      * color when one clicked and return it the default theme
-     */
-    private fun changeAllTextViewsColor(view: TextView){
+     */     private fun changeAllTextViewsColor(view: TextView){
         when(view.id){
             R.id.plusTextView ->{
                 changeOneViewBackground(subtractionTextView)
